@@ -21,6 +21,12 @@ If you are new to PowerShell and would like to learn more, we recommend reviewin
 
 [getting started]: https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell
 
+## PowerShell History
+
+Readup on some PowerShell [history][] 
+
+[history]: https://en.wikipedia.org/wiki/PowerShell
+
 ## Get PowerShell
 
 You can download and install a PowerShell package for any of the following platforms.
